@@ -8,4 +8,6 @@ Overhauls the Tax Collector to be more useful with a few changes:
     * Adds a system in the config to add custom rent values for mods, given some programming knowledge.
     * Adds a few extra things the Tax Collector can say.
 
+It is highly recommended to use Dialogue Panel Reworked alongside this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2563815443
+
 The source code for this mod and more information is available on Github at https://github.com/nolongerlucky/bettertaxes
